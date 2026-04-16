@@ -1,9 +1,5 @@
 # Mini-Project-ML-house_price_predictions
 
-# **House Price Prediction - Linear Regression Model**
-
-This project is my first task as a Machine Learning Intern at **SkillCraft Technology**. The objective of the project is to predict house prices using a **linear regression model** based on key features like square footage, number of bedrooms, bathrooms, and basement area.
-
 ## **Project Overview**
 - Built a predictive model using the **House Price Dataset**.
 - Focused on key features: 
@@ -50,9 +46,16 @@ This project is my first task as a Machine Learning Intern at **SkillCraft Techn
 ## **Output**
 The predictions for the test dataset are saved in a CSV file: `house_price_predictions.csv`.
 
-Feel free to fork this project and contribute! 🚀
+## 👨‍💻 Developer
 
+**Sanjay N** 🚀 Freelancer
 
-Experiment with advanced models like XGBoost or Random Forest.
-Perform additional feature engineering to improve accuracy.
-Fine-tune the model using hyperparameter optimization techniques.
+🌐 Portfolio: https://sanjayn.me  
+💼 LinkedIn: https://linkedin.com/in/sanjayn29  
+🐙 GitHub: https://github.com/sanjayn29  
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **star ⭐ on GitHub** to support the development.
